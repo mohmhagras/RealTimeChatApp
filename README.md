@@ -1,5 +1,5 @@
 # Real Time Chat App
-A full stack real time chat web app built using .NET Core, SignalR, MongoDB, Typescript, Firebase storage & Next.JS.
+A full stack real time chat web app built using .NET Core, SignalR, MongoDB, Typescript, Firebase storage & Next.JS. Optimized for usage on dektop and mobile.
 # Codes
 
  - Client code: https://github.com/mohagras903/RealTimeChatClient
